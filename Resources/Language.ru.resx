@@ -65,6 +65,6 @@
     <value>Меня зовут Денис</value>
   </data>
   <data name="Thanks" xml:space="preserve">
-    <value>Спасибо за использование Weblate.</value>
+    <value>Спасибо за использование WeblateExample.</value>
   </data>
 </root>
